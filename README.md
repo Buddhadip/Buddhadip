@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buddhadip
 - 👀 I’m interested in explroing more and more programming languages, technologies, getting better in CP.
-- 🌱 I’m currently learning Java, Full Stack Web Dev,DBMS as of now.
+- 🌱 Java, MERN, DBMS, Angular, Struts(1.3x) .
 - 📫 How to reach me ->
 - Email: mailtobuddhadip@gmail.com
 - Linkedin: https://www.linkedin.com/in/buddhadip-mukerjee/
